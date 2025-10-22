@@ -14,14 +14,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmaddedad01&show_icons=true&theme=tokyonight" alt="Ahmad's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddedad01&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
-</p>
-
----
-
 ## 🏅 Badges & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-%23C0A0C0?style=for-the-badge)
