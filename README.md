@@ -1,4 +1,4 @@
-<h1 align="center">✨ Ahmad Dedad (ahmaddedad01) ✨</h1>
+<h1 align="center">✨ Ahmad Dedad (projectdummy2025) ✨</h1>
 
 <p align="center">
   🌱 Mahasiswa Sistem Informasi • 🔍 Fokus di <b>Data Analysis</b>, <b>Web Development</b>, dan <b>Machine Learning</b> • ☕ Kode sambil ngopi
