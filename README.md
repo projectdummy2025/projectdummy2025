@@ -1,46 +1,46 @@
-<h1 align="center">Ahmad Dedad</h1>
-<h2 align="center">(projectdummy2025)</h2>
+<h1 align="center">
+  Hi there, I'm Ahmad Dedad <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+<h3 align="center">(projectdummy2025)</h3>
 
 <p align="center">
-  Digital Enthusiast - Fokus di Data Analysis, Web Development, dan Machine Learning
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Digital+Enthusiast;Data+Analysis;Web+Development;Machine+Learning" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## Tentang Saya
+## About Me
 
-Halo, saya Ahmad Dedad. Saya adalah seorang penggiat dunia digital yang percaya bahwa teknologi memiliki kekuatan untuk mentransformasi ide menjadi solusi nyata. Perjalanan saya dimulai dari rasa penasaran tentang bagaimana data dan kode dapat bekerja sama untuk menciptakan dampak positif. Saya fokus mendalami cara membangun ekosistem digital yang efisien mulai dari pengembangan struktur web yang responsif hingga penerapan model Machine Learning yang cerdas. Saya percaya bahwa setiap baris kode yang saya tulis adalah upaya untuk menyederhanakan kompleksitas menjadi pengalaman yang lebih bermakna.
-
----
-
-## Ketertarikan
-
-Fokus utama saya adalah menjembatani celah antara data mentah dan informasi yang bermakna. Saya sangat tertarik dalam mengolah data untuk menemukan pola yang berguna, serta membangun platform web yang tidak hanya berfungsi dengan baik, tetapi juga nyaman digunakan. Bagi saya, teknologi adalah alat untuk terus belajar dan menciptakan sesuatu yang memberikan nilai tambah bagi orang lain.
+I am a digital enthusiast passionate about transforming ideas into impactful solutions through data analysis, web development, and machine learning. My focus lies in bridging the gap between raw data and meaningful insights, while building responsive, user-centric web platforms and deploying intelligent models to create efficient digital ecosystems.
 
 ---
 
-## Keahlian Teknis
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-ffc107?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-## Hubungi Saya
-
-[![GitHub](https://img.shields.io/badge/GitHub-projectdummy2025-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/projectdummy2025)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Dedad-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-dedad-509620327)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/DuckDB-ffc107?style=for-the-badge" alt="DuckDB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+</p>
 
 ---
 
-**Email Kontak:**
-- **Kolaborasi Proyek**: [projectdummy2025@gmail.com](mailto:projectdummy2025@gmail.com)
-- **Urusan Bisnis**: [ahmaddedad2612@gmail.com](mailto:ahmaddedad2612@gmail.com)
+## Get in Touch
+
+<p align="left">
+  <a href="https://github.com/projectdummy2025"><img src="https://img.shields.io/badge/GitHub-projectdummy2025-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/ahmad-dedad-509620327"><img src="https://img.shields.io/badge/LinkedIn-Ahmad_Dedad-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+**Contact Emails:**
+* **Project Collaborations:** [projectdummy2025@gmail.com](mailto:projectdummy2025@gmail.com)
+* **Business Inquiries:** [ahmaddedad2612@gmail.com](mailto:ahmaddedad2612@gmail.com)
 
 ---
 
 <p align="center">
-  Dibuat dengan dedikasi dan semangat | Powered by Myself
+  <i>Crafted with dedication | Powered by Myself</i>
 </p>
