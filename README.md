@@ -14,18 +14,6 @@
 ## About Me
 
 I am a digital enthusiast passionate about transforming ideas into impactful solutions through data analysis, web development, and machine learning. My focus lies in bridging the gap between raw data and meaningful insights, while building responsive, user-centric web platforms and deploying intelligent models to create efficient digital ecosystems.
-
----
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/DuckDB-ffc107?style=for-the-badge" alt="DuckDB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-</p>
-
 ---
 
 ## Get in Touch
